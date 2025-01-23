@@ -1,8 +1,24 @@
+ 
+npm install -g @angular/cli >> Angular CLI’yı yüklemek
+
+npm list -g @angular/cli >> Angular CLI Yüklü mü Kontrol Edin
+
+ng version >> Angular CLI’yı Test Edin
+
+ng new new_app >> yeni angular projesi oluşturma
+
+cd new_app >> proje dosyasına gider
+
+ng serve --open >> projeyi lokal serverde çalıştırma
  ➜  Local:   http://localhost:4200/
 
-  Shortcuts
-  press r + enter to force reload browser
-  press u + enter to show server url
-  press o + enter to open in browser
-  press c + enter to clear console
-  press q + enter to quit
+node -v >> Node.js sürümünüzü kontrol edin:
+
+npm -v >> npm sürümünüzü kontrol edin:
+
+npm config get prefix >> npm global modül dizinini bulmak
+
+cd C:\Users\abube\Desktop\todo-app >> proje dizinini açma
+
+ 
+
